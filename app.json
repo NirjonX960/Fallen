@@ -11,40 +11,10 @@
     "pyrogram"
     ],
     "env": {
-      "API_ID": {
-        "description": "Get this value from https://my.telegram.org",
-        "value": "",
-        "required": true
-      },
-      "API_HASH": {
-        "description": "Get this value from https://my.telegram.org",
-        "value": "",
-        "required": true
-      },
-      "BOT_TOKEN": {
-        "description": "A Bot's token from Botfather",
-        "value": "",
-        "required": true
-      },
       "OWNER_ID": {
         "description": "Fill your user id here. (Must be integer)",
-        "value": "1356469075",
+        "value": "5761513990",
         "required": true
-      },
-      "SESSION": {
-        "description": "A pyrogram v2 string session from @StringFatherBot",
-        "value": "",
-        "required": true
-      },
-      "SUDO_USERS": {
-        "description": "The user id(s) of user(s) whom you would like to add as a sudo. Multiple values shall be seperated with a space.",
-        "value": "",
-        "required": true
-      },
-      "SUPPORT_CHAT": {
-        "description": "Link of your telegram support group. (Must pe public)",
-        "value": "https://t.me/DevilsHeavenMF",
-        "required": false
       }
     },
     "buildpacks": [
