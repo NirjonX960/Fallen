@@ -59,7 +59,7 @@ async def ping_fallen(_, message: Message):
                 [
                     InlineKeyboardButton("❄ sᴜᴘᴘᴏʀᴛ ❄", url=config.SUPPORT_CHAT),
                     InlineKeyboardButton(
-                        "✨ sᴏᴜʀᴄᴇ ✨",
+                        "✨ ᴜᴘᴅᴀᴛᴇ ✨",
                         url="https://t.me/NixaWorld",
                     ),
                 ],
